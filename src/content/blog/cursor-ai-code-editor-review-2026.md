@@ -10,7 +10,6 @@ affiliateUrlPending: true
 draft: true
 ---
 
-# 寫程式效率低落？Cursor AI 編輯器如何讓開發者每天少寫一半的程式碼
 
 你是否有過這樣的經驗：在 Stack Overflow 和 ChatGPT 之間來回切換，把錯誤訊息貼進去、等待回答、再把答案貼回編輯器——每次除錯都像在打乒乓球？
 
